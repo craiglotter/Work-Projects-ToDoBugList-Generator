@@ -1,0 +1,10 @@
+Work Projects ToDoBugList Generator is a simple application that runs through all the Work Project folders in a specified base folder, adding all the missing To Do List and Bug List text files should they not be already present in that particular work project folder.
+
+To select the Projects folder to check, either click on the browse button or drag and drop the folder straight on to the text box. Note that a Projects base folder follows the form of "Base Project Folder" -> "Example App - 04 November 2004" -> "Source Code" -> "Example App - 04 November 2004" -> "Required Files"
+
+To start the operation, simply click on the Begin button. 
+
+The help and about menu options brings up the help and about dialog boxes respectively. The AutoUpdate menu option forces the application to run an autoupdate.
+
+
+-- Last Updated: 15/06/2008 --
